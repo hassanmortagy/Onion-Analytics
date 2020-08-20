@@ -22,4 +22,4 @@ Small-scale farmers throughout the world are exposed to variability in the price
 * To compute the value of this ML forecasting tool run *Onion-Analytics/Business Value/ValueOnionVFinal.R*
 ---
 
-## Checkout the folder *Presentation And Report* for a presentation and details of this project
+## Check out the folder *Presentation And Report* for a presentation and details of this project
