@@ -4,7 +4,7 @@ Small-scale farmers throughout the world are exposed to variability in the price
 ---
 
 ## Requirements:
-* We provide the final ML forecasting tool in the folder titled *Final Tool*. The code for this tool is given *PricePredictionsFinalTool.R* file which needs the *DataEngineeredFinal.csv* (see how this dataset is obtained below). This tool outputs *ResultsFinalTool.csv* which compares the actual prices vs the prices predicted. All the datasets needed for different codes are included in their respective folders and so one can directly use the csv files given here without needing to run the code to form these csv data files.
+* We provide the final ML forecasting tool in the folder titled *Final Tool*. The code for this tool is given *PricePredictionsFinalTool.R* file which needs the *DataEngineeredFinal.csv* (see how this dataset is obtained below). This tool outputs *ResultsFinalTool.csv* which compares the actual prices vs the prices predicted, in addition to all the plots given in the presentation. All the datasets needed for different codes are included in their respective folders and so one can directly use the csv files given here without needing to run the code to form these csv data files.
 ---
 
 
@@ -15,6 +15,7 @@ Small-scale farmers throughout the world are exposed to variability in the price
   * Be sure to adjust the working directory in line 6 <br/><br/>
 
 * The Lasso and SVM code written for this project can be found in *Onion-Analytics/Analysis of Models/ModelLassoSVM.R* <br/><br/>
+  * Be sure to adjust the working directory in line 13 <br/><br/>
 
 * The Neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R* <br/><br/>
 
