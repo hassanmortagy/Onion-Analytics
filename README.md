@@ -11,8 +11,6 @@ Small-scale farmers throughout the world are exposed to variability in the price
 ## The code is oraganized as follows:
 * To web-scrap the onion prices, run the *Onion-Analytics/Data Sourcing/Webscrapping_Onions.ipynb* file<br/><br/>
 
-* To web-scrap the onion prices, run the *Onion-Analytics/Data Sourcing/Webscrapping_Onions.ipynb* file<br/><br/>
-
 * To create the final dataset (DataEngineeredFinal.csv) used in this project, run the *Onion-Analytics/Data Engineering/DataEngineeringMethod1.R* file
   * Be sure to adjust the working directory in line 6 <br/><br/>
 
@@ -23,4 +21,4 @@ Small-scale farmers throughout the world are exposed to variability in the price
 * To compute the value of this ML forecasting tool run *Onion-Analytics/Business Value/ValueOnionVFinal.R*
 ---
 
-## Checkout the folder *Presentation And Report* for a presentation of this project
+## Checkout the folder *Presentation And Report* for a presentation and details of this project
