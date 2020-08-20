@@ -4,7 +4,7 @@ Small-scale farmers throughout the world are exposed to variability in the price
 ---
 
 ## Requirements:
-* We provide the final ML forecasting tool in the folder titled *Final Tool*. The code for this tool is given *PricePredictionsFinalTool.R* file which needs the *DataEngineeredFinal.csv* (see how this dataset is obtained below). This tool outputs *ResultsFinalTool.csv* which compres the actual prices vs the prices predicted. All the datasets needed for different codes are included in their respective folders and so once can directly use the csv files given here without needing to run the code to form these csv data files.
+* We provide the final ML forecasting tool in the folder titled *Final Tool*. The code for this tool is given *PricePredictionsFinalTool.R* file which needs the *DataEngineeredFinal.csv* (see how this dataset is obtained below). This tool outputs *ResultsFinalTool.csv* which compares the actual prices vs the prices predicted. All the datasets needed for different codes are included in their respective folders and so once can directly use the csv files given here without needing to run the code to form these csv data files.
 ---
 
 
