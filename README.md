@@ -17,13 +17,13 @@ Small-scale farmers throughout the world are exposed to variability in the price
 
 
 ## The code is oraganized as follows:
-* To web-scrap the onion prices, run the *Onion-Analytics/Data Sourcing/Webscrapping_Onions.ipynb* file<br/><br/>
+* To web-scrap the onion prices, run the *Onion-Analytics/Data Sourcing/Webscrapping_Onions.ipynb* file
 
 * To create the final dataset (DataEngineeredFinal.csv) used in this project, run the *Onion-Analytics/Data Engineering/DataEngineeringMethod1.R* file
 
 * The Lasso and SVM code written for this project can be found in *Onion-Analytics/Analysis of Models/ModelLassoSVM.R*
 
-* The neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R* <br/><br/>
+* The neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R*
 
 * To compute the value of this ML forecasting tool run *Onion-Analytics/Business Value/ValueOnionVFinal.R*
 ---
