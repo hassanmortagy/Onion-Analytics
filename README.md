@@ -17,7 +17,7 @@ Small-scale farmers throughout the world are exposed to variability in the price
 * The Lasso and SVM code written for this project can be found in *Onion-Analytics/Analysis of Models/ModelLassoSVM.R*
   * Be sure to adjust the working directory in line 13 <br/><br/>
 
-* The Neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R* <br/><br/>
+* The neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R* <br/><br/>
 
 * To compute the value of this ML forecasting tool run *Onion-Analytics/Business Value/ValueOnionVFinal.R*
 ---
