@@ -14,7 +14,7 @@ Small-scale farmers throughout the world are exposed to variability in the price
 * To create the final dataset (DataEngineeredFinal.csv) used in this project, run the *Onion-Analytics/Data Engineering/DataEngineeringMethod1.R* file
   * Be sure to adjust the working directory in line 6 <br/><br/>
 
-* The Lasso and SVM code written for this project can be found in *Onion-Analytics/Analysis of Models/ModelLassoSVM.R* <br/><br/>
+* The Lasso and SVM code written for this project can be found in *Onion-Analytics/Analysis of Models/ModelLassoSVM.R*
   * Be sure to adjust the working directory in line 13 <br/><br/>
 
 * The Neural network code written for this project can be found in *Onion-Analytics/Analysis of Models/Final_NN_model.R* <br/><br/>
